@@ -1,4 +1,4 @@
-#pull it to your local repo and run "npm install" in your terminal to install all the require packages
+# for this project, I was mainly in charge of RESTful API services
 ### project 3 "A-meal-zing" meal planner backend API services
 - RESTful APIs on express
 
